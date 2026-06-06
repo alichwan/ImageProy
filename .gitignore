@@ -11,6 +11,7 @@ script.py
 .env
 .secrets.*
 .credentials*
+venv
 env
 *.json
 bilbo_service_account.json
